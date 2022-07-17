@@ -1,0 +1,37 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+}
+.header {
+    padding: 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Merriweather', serif;
+    margin-right: 40px;
+    background-image: url("17580.jpg");
+}
+.main-menu {
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+.oe {
+    color: black;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    margin-right: 30px;
+}
+.me {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 12px 16px;
+    font-family: 'Nunito', sans-serif; 
+}
